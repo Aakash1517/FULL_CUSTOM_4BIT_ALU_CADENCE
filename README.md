@@ -387,7 +387,7 @@ FULL_CUSTOM_4BIT_ALU_CADENCE/
 | Name | GitHub |
 |---|---|
 | **T Aakash** | [@Aakash1517](https://github.com/Aakash1517) |
-| **V Adhi Ponraj** | — |
+| **V Adhi Ponraj** | [@ADHI55518](https://github.com/ADHI55518) |
 
 ---
 
