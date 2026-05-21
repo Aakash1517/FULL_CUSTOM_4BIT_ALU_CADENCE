@@ -1,3 +1,0 @@
-#!/bin/sh -f
-/home/install/ASSURA41/tools.lnx86/assura/bin/assura /home/vlsi/Desktop/VLSI_PROJECT_JAMA/4_bit_4:1_mux.rsf -cdslib /home/vlsi/Desktop/VLSI_PROJECT_JAMA/cds.lib -gui
-exit $?

@@ -1,6 +1,0 @@
-#!/bin/sh -f
-#--------------------------------------------------------------------------------------
-# THE RUN FILE created by Cadence Extraction Quantus UI Version 21.2.2-p045
-#--------------------------------------------------------------------------------------
-
-qrc  -log_file /home/student/Desktop/VLSI_PROJECT_JAMA/qrc.Cmos_Inverter.log -cmd /home/student/Desktop/VLSI_PROJECT_JAMA/qrc.Cmos_Inverter.ccl 

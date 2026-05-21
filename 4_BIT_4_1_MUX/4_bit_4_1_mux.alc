@@ -1,7 +1,0 @@
-!<alc> v1 36
-0    3    0 Cmos_Inverter layout VLSI_CHAMP_1190
-0    7    0 Cmos_AND layout VLSI_CHAMP_1190
-0    6    0 CMOS_OR layout VLSI_CHAMP_1190
-0    8    0 2:1_MUX layout VLSI_CHAMP_1190
-0    9    0 4:1_MUX layout .VLSI_CHAMP_1190
-0   10    0 4_bit_4:1_mux layout VLSI_CHAMP_1190

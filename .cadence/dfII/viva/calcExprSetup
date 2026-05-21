@@ -1,4 +1,0 @@
-artistResMgrCalcExprSetup("true" "plot" "E0" "getData("/vout" ?result 'tran)")
-artistResMgrCalcExprSetup("true" "plot" "E1" "v("/A" ?result "tran")")
-artistResMgrCalcExprSetup("true" "plot" "E2" "v("/A" ?result "tran")")
-artistResMgrCalcExprSetup("true" "plot" "E3" "v("/A" ?result "tran")")

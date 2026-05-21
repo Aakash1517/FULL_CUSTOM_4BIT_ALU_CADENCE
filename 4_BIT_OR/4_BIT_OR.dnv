@@ -1,8 +1,0 @@
-vuiLVSdebugRunInfo = list( nil
-   'layoutLibrary "VLSI_CHAMP_1190"
-   'layoutCell "4_BIT_OR"
-   'layoutView "layout"
-   'schematicLibrary "VLSI_CHAMP_1190"
-   'schematicCell "4_BIT_OR"
-   'schematicView "schematic"
-)

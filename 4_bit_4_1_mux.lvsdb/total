@@ -1,7 +1,0 @@
-; Assura generated file -- DO NOT EDIT --
-; Do NOT rely on the content of this file, it may change.
-;
-2 device net parameter pin rewire total
-5  5 (( ( S "2:1_MUX layout VLSI_CHAMP_1190" )( L "2:1_MUX schematic VLSI_CHAMP_1190" ) )(( 1 4 3 )))
-6  5 (( ( S "4:1_MUX layout .VLSI_CHAMP_1190" )( L "4:1_MUX schematic .VLSI_CHAMP_1190" ) )(( 3 0 1 )( 1 4 3 )( 4 1 0 )))
-1  5 (( ( S "4_bit_4:1_mux layout VLSI_CHAMP_1190" )( L "4_bit_4:1_mux schematic VLSI_CHAMP_1190" ) )(( 3 0 9 )( 1 20 16 )( 4 8 0 )))

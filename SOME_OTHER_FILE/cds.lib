@@ -1,5 +1,0 @@
-SOFTINCLUDE /home/install/IC618/share/cdssetup/cds.lib
-DEFINE VLSI_CHAMP_1190 /home/vlsi/Desktop/VLSI_PROJECT_JAMA/VLSI_CHAMP_1190
-DEFINE avTech /home/install/ASSURA41/tools.lnx86/assura/etc/avtech/avTech
-DEFINE #2eVLSI_CHAMP_1190 ./.VLSI_CHAMP_1190
-DEFINE VLSI_PROJECT_JAMA#21 /home/vlsi/Desktop/VLSI_PROJECT_JAMA/VLSI_PROJECT_JAMA#21
