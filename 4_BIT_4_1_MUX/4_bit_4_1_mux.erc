@@ -1,0 +1,35 @@
+
+***** Begin Label Report *****
+
+ Label in cell '4_bit_4:1_mux layout VLSI_CHAMP_1190':
+  info: Assign pin label "Y0<3>" at (66.6950, 280.6800) to layer `Metal1_p'.
+  info: Assign pin label "Y1<3>" at (67.2550, 302.1000) to layer `Metal1_p'.
+  info: Assign pin label "Y2<3>" at (69.2150, 357.3150) to layer `Metal1_p'.
+  info: Assign pin label "Y3<3>" at (62.7000, 379.0850) to layer `Metal1_p'.
+  info: Assign pin label "GND" at (546.7000, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "R<3>" at (233.0350, 318.7800) to layer `Metal1_p'.
+  info: Assign pin label "Y0<2>" at (318.2900, 285.4100) to layer `Metal1_p'.
+  info: Assign pin label "S0" at (376.2000, 230.1250) to layer `Metal1_p'.
+  info: Assign pin label "Y1<2>" at (314.6400, 307.2800) to layer `Metal1_p'.
+  info: Assign pin label "Y2<2>" at (321.1500, 362.0800) to layer `Metal1_p'.
+  info: Assign pin label "Y3<2>" at (321.4000, 384.4200) to layer `Metal1_p'.
+  WARN: Multiple label discarded: "Y3<2>" at (321.4000, 384.4200) and "Y3<3>" on net C4.
+  info: Assign pin label "R<2>" at (490.2950, 324.3100) to layer `Metal1_p'.
+  info: Assign pin label "Y0<1>" at (574.3300, 290.5450) to layer `Metal1_p'.
+  info: Assign pin label "Y1<1>" at (554.4100, 312.3300) to layer `Metal1_p'.
+  info: Assign pin label "S1" at (376.0000, 491.7050) to layer `Metal1_p'.
+  info: Assign pin label "Y2<1>" at (553.9100, 367.1100) to layer `Metal1_p'.
+  WARN: There is a Warning on net C4: multiple Labels on a single Net,
+        therefore, "Y3<1>" at (565.8900, 389.4750) is discarded.
+  info: Assign pin label "R<1>" at (737.1950, 329.1400) to layer `Metal1_p'.
+  info: Assign pin label "Y0<0>" at (852.9950, 290.7650) to layer `Metal1_p'.
+  info: Assign pin label "Y1<0>" at (849.5900, 311.7250) to layer `Metal1_p'.
+  info: Assign pin label "Y2<0>" at (799.7500, 367.5950) to layer `Metal1_p'.
+  WARN: There is a Warning on net C4: multiple Labels on a single Net,
+        therefore, "VDD" at (546.7000, 640.9400) is discarded.
+  WARN: There is a Warning on net C4: multiple Labels on a single Net,
+        therefore, "Y3<0>" at (838.5600, 389.2600) is discarded.
+  info: Assign pin label "R<0>" at (1025.0000, 329.2800) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'CMOS_OR layout VLSI_CHAMP_1190':
+  info: Assign pin label "A" at (0.1450, 6.1750) to layer `Metal1_p'.
+  info: Assign pin label "GND" at (6.3850, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "B" at (4.2950, 6.1200) to layer `Metal1_p'.
+  info: Assign pin label "VDD" at (6.3850, 10.5950) to layer `Metal1_p'.
+  info: Assign pin label "Vout" at (12.6600, 5.8800) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

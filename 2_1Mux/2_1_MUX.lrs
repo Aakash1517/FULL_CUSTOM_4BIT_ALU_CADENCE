@@ -1,0 +1,40 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII20.1-64b:ICADVM20.1-64b.500.25 11/04/2022 00:36 (sjfhw885) $
+sub-version 4.1_USR6_EHF13, integ signature 2022-11-04-0002
+run on ic312.vit.ac.in at Thu Apr  9 19:14:26 2026
+
+Schematic                              | Layout                              | Status
+---------------------------------------------------------------------------------------
+Cmos_Inverter schematic VLSI_CHAMP_1190| Cmos_Inverter layout VLSI_CHAMP_1190| matched
+CMOS_OR schematic VLSI_CHAMP_1190      | CMOS_OR layout VLSI_CHAMP_1190      | matched
+Cmos_AND schematic VLSI_CHAMP_1190     | Cmos_AND layout VLSI_CHAMP_1190     | matched
+2:1_MUX schematic VLSI_CHAMP_1190      | 2:1_MUX layout VLSI_CHAMP_1190      | errors  *
+
+Mismatch between Schematic and Layout
+   1 cell with errors
+   3 cells matched
+
+Schematic:
+  Library:VLSI_CHAMP_1190
+  Cell   :2:1_MUX
+  View   :schematic
+
+Layout:
+  Library:VLSI_CHAMP_1190
+  Cell   :2:1_MUX
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     1 cells have 2 Net mismatches
+     1 cells have 1 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+

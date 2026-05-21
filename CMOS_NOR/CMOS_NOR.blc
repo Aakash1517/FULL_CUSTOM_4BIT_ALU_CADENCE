@@ -1,0 +1,5 @@
+"pmos1v(MOS)" "pmos1v(MOS)"
+"nmos1v(MOS)" "nmos1v(MOS)"
+"CMOS_NOR layout VLSI_CHAMP_1190" "CMOS_NOR schematic VLSI_CHAMP_1190" "nmos1v(MOS)" "pmos1v(MOS)"
+Devices filtered from layout
+"TIE"

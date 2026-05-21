@@ -1,0 +1,16 @@
+
+***** Begin Label Report *****
+
+ Label in cell '4:1_MUX layout .VLSI_CHAMP_1190':
+  info: Assign pin label "S0" at (21.6550, 24.9450) to layer `Metal1_p'.
+  info: Assign pin label "A0" at (27.9300, 34.2400) to layer `Metal1_p'.
+  info: Assign pin label "A1" at (24.0950, 55.8800) to layer `Metal1_p'.
+  info: Assign pin label "GND" at (80.1300, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "A2" at (28.7000, 110.9100) to layer `Metal1_p'.
+  info: Assign pin label "S1" at (97.1150, 54.1700) to layer `Metal1_p'.
+  info: Assign pin label "A3" at (33.4300, 132.9150) to layer `Metal1_p'.
+  info: Assign pin label "Vout" at (147.9550, 72.8400) to layer `Metal1_p'.
+  info: Assign pin label "VDD" at (80.1300, 160.2000) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

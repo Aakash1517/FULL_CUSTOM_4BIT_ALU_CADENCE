@@ -1,0 +1,6 @@
+"pmos1v(MOS)" "pmos1v(MOS)"
+"nmos1v(MOS)" "nmos1v(MOS)"
+"Cmos_Inverter layout VLSI_CHAMP_1190" "Cmos_Inverter schematic VLSI_CHAMP_1190" "nmos1v(MOS)" "pmos1v(MOS)"
+"Cmos_AND layout VLSI_CHAMP_1190" "Cmos_AND schematic VLSI_CHAMP_1190" "nmos1v(MOS)" "pmos1v(MOS)"
+Devices filtered from layout
+"TIE"

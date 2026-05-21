@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'CMOS_XOR layout VLSI_CHAMP_1190':
+  info: Assign pin label "A" at (0.8500, 3.3050) to layer `Metal1_p'.
+  info: Assign pin label "B" at (5.9900, 3.4150) to layer `Metal1_p'.
+  info: Assign pin label "gnd" at (10.7650, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "Vdd" at (10.7650, 17.2950) to layer `Metal1_p'.
+  info: Assign pin label "Vout" at (19.6400, 8.9600) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

@@ -1,0 +1,6 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 bind match unmatched shorts opens
+1 4 ((S "net7")(1 "I2" ( "B")))
+1 2 ((S "net7")(L "avC8"))

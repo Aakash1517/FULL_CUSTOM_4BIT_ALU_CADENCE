@@ -1,0 +1,17 @@
+
+***** Begin Label Report *****
+
+ Label in cell '4_BIT_NOT layout VLSI_CHAMP_1190':
+  info: Assign pin label "A<3>" at (1.0800, 5.1950) to layer `Metal1_p'.
+  info: Assign pin label "GND" at (9.6750, 0.0600) to layer `Metal1_p'.
+  info: Assign pin label "Y<3>" at (4.8650, 5.2000) to layer `Metal1_p'.
+  info: Assign pin label "A<2>" at (6.0100, 5.2050) to layer `Metal1_p'.
+  info: Assign pin label "Y<2>" at (9.9000, 5.2000) to layer `Metal1_p'.
+  info: Assign pin label "A<1>" at (10.4650, 5.1300) to layer `Metal1_p'.
+  info: Assign pin label "Y<1>" at (14.0900, 5.1300) to layer `Metal1_p'.
+  info: Assign pin label "A<0>" at (15.3750, 5.2150) to layer `Metal1_p'.
+  info: Assign pin label "VDD" at (9.6750, 14.2600) to layer `Metal1_p'.
+  info: Assign pin label "Y<0>" at (19.2400, 5.2150) to layer `Metal1_p'.
+
+***** End of Label Report *****
+

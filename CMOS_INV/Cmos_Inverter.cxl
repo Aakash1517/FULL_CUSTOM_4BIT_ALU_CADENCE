@@ -1,0 +1,20 @@
+C pmos1v(MOS) pmos1v(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C nmos1v(MOS) nmos1v(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "Cmos_Inverter schematic VLSI_CHAMP_1190" "Cmos_Inverter layout VLSI_CHAMP_1190"
+N Vout Vout
+N Vin Vin
+N GND GND
+N VDD VDD
+I NM0 avD1_1
+I PM0 avD7_1
+

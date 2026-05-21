@@ -1,0 +1,5 @@
+; Assura generated file -- DO NOT EDIT --
+; Do NOT rely on the content of this file, it may change.
+;
+2 unmatched connect pin
+1 1 ((S "I0" "Cmos_AND")(L "I0" "Cmos_AND")(("Vout" "net4" "avC8")))

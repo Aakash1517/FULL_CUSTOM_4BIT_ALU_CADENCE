@@ -1,0 +1,8 @@
+*WARNING* Multiple label discarded: "Y3<2>" at (321.4000, 384.4200) and "Y3<3>" on net C4.
+*WARNING* Net C4: multiple Labels on a single Net, 
+therefore, "Y3<1>" at (565.8900, 389.4750) is discarded.
+*WARNING* Net C4: multiple Labels on a single Net, 
+therefore, "VDD" at (546.7000, 640.9400) is discarded.
+*WARNING* Net C4: multiple Labels on a single Net, 
+therefore, "Y3<0>" at (838.5600, 389.2600) is discarded.
+*WARNING* 4 net(s) with multi-label warnings found in cell '4_bit_4:1_mux layout VLSI_CHAMP_1190'.
