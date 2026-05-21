@@ -1,0 +1,77 @@
+# ============================================
+# .gitignore for Cadence Virtuoso Projects
+# ============================================
+
+# ---- Cadence Simulation Binary Files ----
+*.dat        # Large simulation data (can be GBs)
+*.bcr        # Binary cell representation
+*.sum        # Summary binary
+*.lyr        # Layer file binary
+*.erd        # Error database binary
+*.nrc        # Netlist rule check binary
+*.map        # Map file
+*.rsf        # Rule set file
+
+# ---- Cadence Log & Temp Files ----
+*.log
+*.tmp
+*.bbc
+*.err
+*.erc
+*.ler
+*.wrn
+*.tre
+*.tre2
+*.trm
+*.msg
+*.hdr
+*.env
+*.erx
+*.wrx
+*.eqr
+*.dvc
+
+# ---- Cadence Lock Files ----
+*.lock
+*.lck
+*.conf.lock
+
+# ---- Cadence Run/Session Files ----
+*.svi
+*.scv
+*.cls
+*.cps
+*.blc
+*.alc
+*.ilc
+*.cxl
+*.csm
+*.dnv
+*.elf
+*.cel
+*.cel2
+
+# ---- Cadence Netlists (auto-generated) ----
+*.sdb
+*.snn
+*.spl
+*.ldb
+*.lnn
+*.lrs
+*.nht
+*.xcn
+*.xrf
+*.vlr
+
+# ---- Cadence Hidden/Workspace Dirs ----
+.cadence/
+.VLSI_CHAMP*/
+VLSI_CHAMP*/
+SOME_OTHER_FILE/
+
+# ---- General ----
+Thumbs.db
+.DS_Store
+*.bak
+*.swp
+*~
